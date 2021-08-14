@@ -476,7 +476,3 @@ for image_name in image_names:
 
 ## 四、总结
 paddlex适合在公开的模型上快速训练自己的数据集，当然前提是数据集得按要求制作。
-
-
-请点击[此处](https://ai.baidu.com/docs#/AIStudio_Project_Notebook/a38e5576)查看本环境基本用法.  <br>
-Please click [here ](https://ai.baidu.com/docs#/AIStudio_Project_Notebook/a38e5576) for more detailed instructions. 
