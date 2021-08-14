@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+  <filename>380.png</filename>
+  <object_num>1</object_num>
+  <size>
+    <width>912</width>
+    <height>1243</height>
+  </size>
+  <object>
+    <name>纸片人正脸</name>
+    <bndbox>
+      <xmin>211</xmin>
+      <ymin>16</ymin>
+      <xmax>586</xmax>
+      <ymax>384</ymax>
+    </bndbox>
+  </object>
+</annotation>

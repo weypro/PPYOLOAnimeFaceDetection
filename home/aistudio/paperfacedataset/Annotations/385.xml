@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+  <filename>385.jpeg</filename>
+  <object_num>4</object_num>
+  <size>
+    <width>1517</width>
+    <height>1074</height>
+  </size>
+  <object>
+    <name>纸片人正脸</name>
+    <bndbox>
+      <xmin>1163</xmin>
+      <ymin>59</ymin>
+      <xmax>1457</xmax>
+      <ymax>358</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>纸片人正脸</name>
+    <bndbox>
+      <xmin>770</xmin>
+      <ymin>77</ymin>
+      <xmax>1076</xmax>
+      <ymax>369</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>纸片人正脸</name>
+    <bndbox>
+      <xmin>394</xmin>
+      <ymin>101</ymin>
+      <xmax>680</xmax>
+      <ymax>376</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>纸片人正脸</name>
+    <bndbox>
+      <xmin>45</xmin>
+      <ymin>64</ymin>
+      <xmax>348</xmax>
+      <ymax>367</ymax>
+    </bndbox>
+  </object>
+</annotation>
